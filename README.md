@@ -10,23 +10,28 @@
 
 ## 📅 2022 年
 
-### 03月5日
+### 03 月 6 日
+[✅2100. 适合打劫银行的日子（中等）](https://juejin.cn/post/7071819446796599304/)
+- TAG [动画规划]
+- TODO: 前缀和
+
+### 03 月 5 日
 [✅521. 最长特殊序列 Ⅰ（简单）](https://juejin.cn/post/7071478535503740965/)
 - TAG [脑筋急转弯]
 
-### 03月4日
+### 03 月 4 日
 [✅2104. 子数组范围和（中等）](https://juejin.cn/post/7071239216054665230/) 
 - TAG [动态规划]
 
 [✅62. 不同路径]()
 - TAG [动态规划-空间优化]
 
-### 03月3日
+### 03 月 3 日
 ✅每日一题：258. 各位相加（简单）:
 - TAG: 「模拟」、[数学]
 - 注： [「树根」](https://zh.wikipedia.org/wiki/數根) 的作用
 
-### 03月2日
+### 03 月 2 日
 ❌每日一题：564. 寻找最近的回文数（困难）
 
 [✅剑指 Offer II：003. 前 n 个数字二进制中 1 的个数](https://github.com/Frioa/Frioa_LeetCode/blob/master/%E5%89%91%E6%8C%87II/1-10/003.%20%E5%89%8D%20n%20%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD%201%20%E7%9A%84%E4%B8%AA%E6%95%B0.md)
@@ -37,6 +42,6 @@
 [✅剑指 Offer II：004. 只出现一次的数字](https://github.com/Frioa/Frioa_LeetCode/blob/master/%E5%89%91%E6%8C%87II/1-10/004.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 - TAG: 「哈希表」、「位运算」
 
-### 03月1日
+### 03 月 1 日
 [✅每日一题：6. Z 字形变换（中等）](https://github.com/Frioa/Frioa_LeetCode/blob/master/leetcode/1-1000/1-100/1-10/6.%20Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2%EF%BC%88%E4%B8%AD%E7%AD%89%EF%BC%89.md)
 - Tag : 「模拟」、「数学」
