@@ -15,6 +15,11 @@
 - TAG [递归][迭代]
 
 
+**专项训练（二叉树）：**
+- [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+  - 记录二叉树中元素个数（递归、全局变量）
+
+
 ### 03 月 17 日
 [✅每日一题 720. 词典中最长的单词](https://juejin.cn/editor/drafts/7076049753921814564)
 - TAG [哈希表]
