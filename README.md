@@ -18,6 +18,10 @@
 **专项训练（二叉树）：**
 - [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
   - 记录二叉树中元素个数（递归、全局变量）
+- [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+  - 中序遍历
+- [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+  - 练习递归遍历
 
 
 ### 03 月 17 日
