@@ -14,6 +14,8 @@
 [✅每日一题 661. 图片平滑器（简单）](https://leetcode-cn.com/problems/image-smoother/)
 - TAG [模拟] [前缀和]
 
+[✅304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
+- [前缀和]
 
 ### 03 月 23 日
 [✅每日一题 440. 字典序的第K小数字](https://juejin.cn/post/7078460425498525710/)
