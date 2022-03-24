@@ -10,6 +10,11 @@
 
 ## 📅 2022 年
 
+### 03 月 24 日
+[✅每日一题 661. 图片平滑器（简单）](https://leetcode-cn.com/problems/image-smoother/)
+- TAG [模拟] [前缀和]
+
+
 ### 03 月 23 日
 [✅每日一题 440. 字典序的第K小数字](https://juejin.cn/post/7078460425498525710/)
 - TAG [前缀树]
