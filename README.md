@@ -10,6 +10,13 @@
 
 ## 📅 2022 年
 
+### 03 月 25 日
+[✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
+- TAG [模拟] [前缀和]
+
+[✅303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
+- TAG [一维前缀和]
+
 ### 03 月 24 日
 [✅每日一题 661. 图片平滑器（简单）](https://leetcode-cn.com/problems/image-smoother/)
 - TAG [模拟] [前缀和]
