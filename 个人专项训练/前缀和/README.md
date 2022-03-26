@@ -8,4 +8,5 @@
 | [✅238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)      | 简单 🤩🤩🤩🤩   | 一维前缀积变形                 |
 | [✅304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 中等 🤩🤩🤩🤩🤩 | 二维前缀和入门题                |
 | [✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)                         | 简单 🤩🤩🤩🤩   | 二维前缀练习题                 |
+| [✅437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 🤩🤩🤩🤩🤩 | 前缀在二叉树中的应用              |
 
