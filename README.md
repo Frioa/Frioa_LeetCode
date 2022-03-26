@@ -10,6 +10,12 @@
 
 ## 📅 2022 年
 
+### 03 月 26 日
+[✅682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+- TAG [模拟]
+[✅238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
+- TAG [前缀和]
+
 ### 03 月 25 日
 [✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
 - TAG [模拟] [前缀和]
