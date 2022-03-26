@@ -15,6 +15,8 @@
 - TAG [模拟]
 [✅238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 - TAG [前缀和]
+[✅1154. 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/)
+- TAG [前缀和]
 
 ### 03 月 25 日
 [✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
