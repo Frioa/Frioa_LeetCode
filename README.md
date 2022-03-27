@@ -10,11 +10,18 @@
 
 ## 📅 2022 年
 
+
+### 03 月 27 日
+[✅2028. 找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)
+- TAG [模拟]
+
 ### 03 月 26 日
 [✅682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
 - TAG [模拟]
+
 [✅238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 - TAG [前缀和]
+
 [✅1154. 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/)
 - TAG [前缀和]
 
