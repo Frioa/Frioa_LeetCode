@@ -9,4 +9,5 @@
 | [✅304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 中等 🤩🤩🤩🤩🤩 | 二维前缀和入门题                |
 | [✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)                         | 简单 🤩🤩🤩🤩   | 二维前缀练习题                 |
 | [✅437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 🤩🤩🤩🤩🤩 | 前缀在二叉树中的应用              |
+| [✅523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 🤩🤩🤩 | 相同的余数即是 K 的倍数           |
 
