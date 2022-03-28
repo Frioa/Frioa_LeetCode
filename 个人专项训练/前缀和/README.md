@@ -11,3 +11,4 @@
 | [✅437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 🤩🤩🤩🤩🤩 | 前缀在二叉树中的应用              |
 | [✅523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 🤩🤩🤩 | 相同的余数即是 K 的倍数           |
 | [✅525. 连续数组](https://leetcode-cn.com/problems/contiguous-array/) | 中等 🤩🤩🤩 | 前缀和+hash                |
+| [✅560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 中等 🤩🤩🤩 | 前缀和+hash                |

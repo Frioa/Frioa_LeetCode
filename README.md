@@ -11,6 +11,13 @@
 ## 📅 2022 年
 
 
+### 03 月 28 日
+[✅693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
+- TAG [位运算]
+
+[✅560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+- [前缀和]
+
 ### 03 月 27 日
 [✅2028. 找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)
 - TAG [模拟]
