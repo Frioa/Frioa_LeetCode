@@ -10,6 +10,10 @@
 
 ## 📅 2022 年
 
+### 03 月 29 日
+[✅2024. 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)
+- TAG [双指针]
+
 
 ### 03 月 28 日
 [✅693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
