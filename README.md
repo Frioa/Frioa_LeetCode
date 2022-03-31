@@ -10,6 +10,19 @@
 
 ## 📅 2022 年
 
+### 03 月 21 日
+[✅728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)
+- TAG [模拟]
+  
+[✅206. 反转链表](https://leetcode-cn.com/submissions/detail/292367134/)
+- TAG [链表]
+
+[✅206. 排序数组](https://leetcode-cn.com/submissions/detail/292817492/)
+- TAG [快速排序]
+
+[✅53. 最大子数组和](https://leetcode-cn.com/submissions/detail/292827865/)
+- TAG [前缀和][动态规划]
+
 ### 03 月 29 日
 [✅2024. 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)
 - TAG [双指针]
