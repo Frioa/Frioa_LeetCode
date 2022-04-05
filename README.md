@@ -10,7 +10,12 @@
 
 ## 📅 2022 年
 
-### 03 月 21 日
+### 04 月 05 日
+[✅762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
+- TAG [位运算]、lowbit() 函数学习
+
+
+### 03 月 30 日
 [✅728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)
 - TAG [模拟]
   
@@ -22,6 +27,7 @@
 
 [✅53. 最大子数组和](https://leetcode-cn.com/submissions/detail/292827865/)
 - TAG [前缀和][动态规划]
+
 
 ### 03 月 29 日
 [✅2024. 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)
