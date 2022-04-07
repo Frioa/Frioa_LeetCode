@@ -10,6 +10,11 @@
 
 ## 📅 2022 年
 
+### 04 月 07 日
+[✅796. 旋转字符串](https://leetcode-cn.com/problems/rotate-string/)
+- TAG [模拟]
+
+
 ### 04 月 05 日
 [✅762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - TAG [位运算]、lowbit() 函数学习
