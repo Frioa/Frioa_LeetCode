@@ -10,6 +10,65 @@
 
 ## 📅 2022 年
 
+### 04 月 07 日
+[✅796. 旋转字符串](https://leetcode-cn.com/problems/rotate-string/)
+- TAG [模拟]
+
+
+### 04 月 05 日
+[✅762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
+- TAG [位运算]、lowbit() 函数学习
+
+
+### 03 月 30 日
+[✅728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)
+- TAG [模拟]
+  
+[✅206. 反转链表](https://leetcode-cn.com/submissions/detail/292367134/)
+- TAG [链表]
+
+[✅206. 排序数组](https://leetcode-cn.com/submissions/detail/292817492/)
+- TAG [快速排序]
+
+[✅53. 最大子数组和](https://leetcode-cn.com/submissions/detail/292827865/)
+- TAG [前缀和][动态规划]
+
+
+### 03 月 29 日
+[✅2024. 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)
+- TAG [双指针]
+
+[✅3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- TAG [双指针]
+
+### 03 月 28 日
+[✅693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
+- TAG [位运算]
+
+[✅560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
+- [前缀和]
+
+### 03 月 27 日
+[✅2028. 找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)
+- TAG [模拟]
+
+### 03 月 26 日
+[✅682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+- TAG [模拟]
+
+[✅238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
+- TAG [前缀和]
+
+[✅1154. 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/)
+- TAG [前缀和]
+
+### 03 月 25 日
+[✅661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
+- TAG [模拟] [前缀和]
+
+[✅303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
+- TAG [一维前缀和]
+
 ### 03 月 24 日
 [✅每日一题 661. 图片平滑器（简单）](https://leetcode-cn.com/problems/image-smoother/)
 - TAG [模拟] [前缀和]
